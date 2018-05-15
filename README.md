@@ -1,1 +1,0 @@
-# file-encryption-application
